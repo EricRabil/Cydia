@@ -11,7 +11,7 @@ Installed-Size: 264
 MD5sum: 8ae79811d1c438c4d383291b9c4fd731
 Size: 4720
 Filename: debs/com.ericrabil.diedateview.deb
-Depiction: https://http://ericrabil.com/cydia//depictions/?p=com.ericrabil.diedateview
+Depiction: http://ericrabil.com/cydia/depictions/?p=com.ericrabil.diedateview
 
 Package: com.ericrabil.diesidebar
 Name: DieSidebar
@@ -26,7 +26,7 @@ Installed-Size: 264
 MD5sum: 4fae00ea85f5a80341341ee6468ea3da
 Size: 3334
 Filename: debs/com.ericrabil.diesidebar.deb
-Depiction: https://http://ericrabil.com/cydia//depictions/?p=com.ericrabil.diesidebar
+Depiction: http://ericrabil.com/cydia/depictions/?p=com.ericrabil.diesidebar
 
 Package: com.ericrabil.musica
 Name: Musica
@@ -41,6 +41,6 @@ Installed-Size: 264
 MD5sum: 2760cabbf7f3497fb793150639e2dbb0
 Size: 8514
 Filename: debs/com.ericrabil.musica.deb
-Depiction: https://http://ericrabil.com/cydia//depictions/?p=com.ericrabil.musica
+Depiction: http://ericrabil.com/cydia/depictions/?p=com.ericrabil.musica
 
 

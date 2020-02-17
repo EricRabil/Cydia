@@ -1,0 +1,15 @@
+{
+	"name": "Musica",
+	"package": "com.ericrabil.musica",
+	"author": "Eric Rabil",
+	"version": "1.0.0",
+	"description": "Remaps the 11 Pro & Pro Max Smart Battery Case camera button to media controls.",
+	"changelog": {
+	},
+	"screenshots": {
+	},
+	"links": {
+        "<span class=\"glyphicon glyphicon-wrench\"></span> My Github": "https://github.com/EricRabil",
+		"<span class=\"glyphicon glyphicon-heart\"></span> My Twitter": "https://twitter.com/ericrabil"
+	}
+}

@@ -28,6 +28,21 @@ Size: 3334
 Filename: debs/com.ericrabil.diesidebar.deb
 Depiction: http://ericrabil.com/cydia/depictions/?p=com.ericrabil.diesidebar
 
+Package: com.ericrabil.letmein
+Name: LetMeIn
+Depends: mobilesubstrate, firmware (>= 13.0)
+Architecture: iphoneos-arm
+Description: Rejoin group chats you're no longer a member of
+Maintainer: Eric Rabil <ericjrabil@gmail.com>
+Author: Eric Rabil <ericjrabil@gmail.com>
+Section: Tweaks
+Version: 1.0
+Installed-Size: 264
+MD5sum: 239e90beac4d3797483032f903d7ab1e
+Size: 4948
+Filename: debs/com.ericrabil.letmein.deb
+Depiction: http://ericrabil.com/cydia/depictions/?p=com.ericrabil.letmein
+
 Package: com.ericrabil.musica
 Name: Musica
 Depends: mobilesubstrate, firmware (>= 13.2)

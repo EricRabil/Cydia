@@ -1,3 +1,18 @@
+Package: com.ericrabil.cydiapls
+Name: CydiaPls
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Cydia please just work normally
+Maintainer: Eric Rabil <ericjrabil@gmail.com>
+Author: Eric Rabil <ericjrabil@gmail.com>
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 88
+MD5sum: 7ac5ec4fb87654c91ca39be4c83e14b9
+Size: 6932
+Filename: debs/com.ericrabil.cydiapls.deb
+Depiction: http://ericrabil.com/cydia/depictions/?p=com.ericrabil.cydiapls
+
 Package: com.ericrabil.diedateview
 Name: DieDateView
 Depends: mobilesubstrate, firmware (>= 13.0)

@@ -1,0 +1,13 @@
+{
+	"name": "LetMeIn",
+	"package": "com.ericrabil.letmein",
+	"author": "Eric Rabil",
+	"version": "1.0.0",
+	"description": "Rejoin an iMessage group that you are no longer a member of. Click the 'info' button when you are not a member to rejoin.",
+	"changelog": {
+	},
+	"screenshots": {
+	},
+	"links": {
+	}
+}

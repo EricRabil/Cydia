@@ -58,6 +58,21 @@ Size: 4948
 Filename: debs/com.ericrabil.letmein.deb
 Depiction: http://ericrabil.com/cydia/depictions/?p=com.ericrabil.letmein
 
+Package: com.ericrabil.messagespls
+Name: MessagesPls
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Messages please just work normally
+Maintainer: Eric Rabil <ericjrabil@gmail.com>
+Author: Eric Rabil <ericjrabil@gmail.com>
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 232
+MD5sum: c3a72b7fd2f4af9eff7a8b9f62e16225
+Size: 3678
+Filename: debs/com.ericrabil.messagespls.deb
+Depiction: http://ericrabil.com/cydia/depictions/?p=com.ericrabil.messagespls
+
 Package: com.ericrabil.musica
 Name: Musica
 Depends: mobilesubstrate, firmware (>= 13.2)
